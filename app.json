@@ -1,0 +1,8 @@
+[
+      {name:"Infinity Ou", desc:"Play Eggs Win Cars!", img:"https://s3.mytel.com.mm/myid-ui/70e24c8e-58c3-4d06-a0d3-1aed21b3e17d-900x600-pixel-min.png", link:"https://www.example.com/infinity"},
+      {name:"CK Lottery", desc:"Win Money!", img:"https://via.placeholder.com/300x200.png?text=CK+Lottery", link:"https://www.google.com"},
+      {name:"Pirate War", desc:"Battle Fun and Win Big!", img:"https://via.placeholder.com/300x200.png?text=Pirate+War", link:"https://www.example.com/pirate"},
+      {name:"MyLand", desc:"Grow and win iPhone 14 Pro!", img:"https://via.placeholder.com/300x200.png?text=MyLand", link:"https://www.example.com/myland"},
+      {name:"Simgau", desc:"Sing IM - Karaoke Songs", img:"https://via.placeholder.com/300x200.png?text=Simgau", link:"https://www.example.com/simgau"},
+      {name:"VPN 360", desc:"Turn on by mytel", img:"https://via.placeholder.com/300x200.png?text=VPN+360", link:"https://www.example.com/vpn"}
+    ];
